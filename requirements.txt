@@ -1,0 +1,7 @@
+ipython>=3.0
+jsonschema
+geopandas
+pymc>=2.3.4
+basemap
+pyproj
+shapely
